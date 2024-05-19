@@ -1,1 +1,7 @@
-# sydneymillerwise.github.io
+#Sydney Millerwise
+###Education
+Environmental Life Sciences, PhD
+
+###Work Experience
+
+###Projects
