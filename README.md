@@ -1,5 +1,5 @@
 Sydney Millerwise
-
+Technical skills
 ##Education
 Environmental Life Sciences, PhD
 
@@ -7,3 +7,13 @@ Environmental Life Sciences, PhD
 
 Publications
 [Nutrient supply and accessibility in plants: effect of protein and carbohydrates on Australian plague locust (Chortoicetes terminifera) preference and performance] (https://www.frontiersin.org/articles/10.3389/finsc.2023.1110518/full)
+
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
