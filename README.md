@@ -1,7 +1,7 @@
 # Sydney Millerwise
 Environmental Life Sciences, PhD student
 
-![Picture of Sydney](/assets/syd_hold_lab_locuts.jpg)
+![Picture of Sydney](/assets/syd_hold_lab_locust.jpg)
 
 ## Bio
 I’m a Ph.D student studying how insects respond to complex environmental stressors. I completed my undergraduate degree in Sustainability in 2022 and now work with Dr. Arianne Cease and Dr. Jon Harrison at the Global Locust Initiative lab studying how population density affects viral communities and immune function of lab and field insect populations. Outside the lab you can find me hiking and enjoying the enormous biological diversity of the Sonoran Desert.
