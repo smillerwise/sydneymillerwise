@@ -1,38 +1,10 @@
-#Sydney Millerwise
-
-##Education
-
+# Sydney Millerwise
 Environmental Life Sciences, PhD
 
-Work Experience
+## Bio
+I’m a Ph.D student studying how insects respond to complex environmental stressors. I completed my undergraduate degree in Sustainability in 2022 and now work with Dr. Arianne Cease and Dr. Jon Harrison at the Global Locust Initiative lab studying how population density affects viral communities and immune function of lab and field insect populations. Outside the lab you can find me hiking and enjoying the enormous biological diversity of the Sonoran Desert.
 
-Publications
-
+## Publicaitons
 ["Nutrient supply and accessibility in plants: effect of protein and carbohydrates on Australian plague locust (Chortoicetes terminifera) preference and performance"](https://www.frontiersin.org/articles/10.3389/finsc.2023.1110518/full)
 
-
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-      title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
